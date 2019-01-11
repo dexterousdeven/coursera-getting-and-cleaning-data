@@ -37,7 +37,6 @@ names(activity_labels) <- c("activity_id", "activity_label")
 
 features <- read.table("UCI HAR Dataset/features.txt", as.is = TRUE)
 
-
 # rename merged data set column names
 colnames(data) <- c("Subject", features[,2], "Activity")
 
