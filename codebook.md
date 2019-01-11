@@ -3,7 +3,7 @@
 This provides a description of the variables, the data, and the transformations that were undertaken to clean up the data
 
 ## Data Location and Files
-The data was scattered across multiple files and only a subset of all the files from [here](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip) are used, see the README file for further details.
+The data was scattered across multiple files and only a portion of all the files from [here](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip) are used, see the README file for further details.
 
 ## Combining the Data
 All of the separate data sets were loaded into R and then combined into a single data set using `cbind` and `rbind` for easier manipulation when cleaning data.
