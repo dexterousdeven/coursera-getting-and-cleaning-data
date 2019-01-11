@@ -9,6 +9,5 @@ The data was downloaded, combined, and cleaned up into a tidy data set.
 This repository contains the following files:
 
 - `README.md`: Provides an overview of the project.
-- `tidy_data.txt`: Contains a tidy version of the original data set that measures the average of each variable for each activity and each subject.
 - `CodeBook.md`: Contains the code book which describes the contents of the data set and how it was manipulated.
 - `run_analysis.R`: Contains the R script that was used to create the data set
